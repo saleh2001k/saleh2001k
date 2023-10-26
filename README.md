@@ -6,7 +6,8 @@ A dedicated and enthusiastic individual who is eager to become part of an organi
 
 ## 🌐 Socials:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saleh2001k) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saleh-almashni/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://salehwebsite.netlify.app/)
+[![website](https://img.shields.io/badge/Website-%23000000.svg?logo=icloud&logoColor=white)](https://salehwebsite.netlify.app) [![linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-almashni) 
+
 
 # 💻 Tech Stack:
 
