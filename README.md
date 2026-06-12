@@ -6,7 +6,7 @@ A dedicated and enthusiastic individual who is eager to become part of an organi
 
 ## 🌐 Socials:
 
-[![website](https://img.shields.io/badge/Website-%23000000.svg?logo=icloud&logoColor=white)](https://salehwebsite.netlify.app) [![linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-almashni) 
+[![website](https://img.shields.io/badge/Website-%23000000.svg?logo=icloud&logoColor=white)](https://salehos.com) [![linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saleh-almashni) 
 
 
 # 💻 Tech Stack:
